@@ -1,0 +1,1 @@
+import { btnEvent } from "./js/pixabay-api";

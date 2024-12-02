@@ -1,0 +1,17 @@
+.form {
+width: 300px;
+margin: 10px auto 0;
+}
+.form-label{
+
+}
+.form-input{
+  border: 1px solid black;
+  padding: 4px;
+  font-family: 'Times New Roman', Times, serif;
+
+}
+.btn-js {
+  padding: 4px;
+ outline: 1px solid black;
+}
